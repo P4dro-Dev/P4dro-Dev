@@ -72,7 +72,7 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
  [![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)]()
  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
 
-  ## Tecnologias de versionamento de código que utilizao: 
+  ## Tecnologias de versionamento de código que utilizo: 
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]()
 [![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)]()
