@@ -58,7 +58,7 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
 
 ## Tecnologias de IDE que utilizo para desenvolvimento de algoritmos, nas mais diversas linguagens de programação: 
 
-![scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1](https://github.com/user-attachments/assets/8a98cc27-8276-45ed-b984-63bf4e102974)
+![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/user-attachments/assets/049b9fca-d536-4fb8-bdd9-95599eacf96d)
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=whit)]()
