@@ -63,7 +63,7 @@
 ## 🖥️| Programas de IDE que utilizo para desenvolvimento de algoritmos, nas mais diversas linguagens de programação: 
 
 ![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/user-attachments/assets/049b9fca-d536-4fb8-bdd9-95599eacf96d)
-
+[![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=whit)]()
 [![Note Pad ++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)]()
