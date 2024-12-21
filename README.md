@@ -102,7 +102,7 @@
 [![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]()
 [![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)]()
 
-  ## 🌐| Navegadores na qual uso para trabalhar: 
+  ## 🌐| Navegadores na qual uso para trabalhar no Desenvolvimento de Software: 
 
 ![7b3531356b449d8c5895eb7803b72297](https://github.com/user-attachments/assets/ae445694-c1a4-4c7f-a705-691361ca56ac)
 
