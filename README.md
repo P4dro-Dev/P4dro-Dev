@@ -27,8 +27,7 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
 <div style = "Display: inline_block"><br/>
    <img aling = "" alt = "" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img aling = "" alt = "" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   <img aling = "" alt = "" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-
-   badge&logo=javascript&logoColor=black" />
+   <img aling = "" alt = "" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img aling = "" alt = "" src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
    <img aling = "" alt = "" src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
    <img aling = "" alt = "" src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -38,7 +37,6 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
    <img aling = "" alt = "" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
    <img aling = "" alt = "" src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
    <img aling = "" alt = "" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whit"/>
-   <img aling = "" alt = "" src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 ![172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7](https://github.com/user-attachments/assets/bcc4b33f-7f04-4ddd-807d-e9c1a256b0fd)
