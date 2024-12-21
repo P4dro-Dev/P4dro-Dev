@@ -121,7 +121,9 @@
  
 [![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)]()
 
-Apaixonado por Tecnologia, conhecimento, e educação! 
+Apaixonado por Tecnologia, conhecimento, e educação. Com a meta, e foco de se utilizar da Tecnolgia para constuir um mundo melhor. E mais acessível, e justo a todas as pessoas!
+
+⚛️| Sᴛᴇᴘʜᴇɴ Hᴀᴡᴋɪɴɢ: "Uᴍ ᴛʀᴀʙᴀʟʜᴏ ᴛᴇ ᴅᴀ́ ᴜᴍ ᴘʀᴏᴘᴏ́sɪᴛᴏ, ᴇ ᴜᴍ sɪɢɴɪғɪᴄᴀᴅᴏ. A ᴠɪᴅᴀ ᴇ́ ᴠᴀᴢɪᴀ sᴇᴍ ᴀᴍʙᴏs!" 🖥️✨💡
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
