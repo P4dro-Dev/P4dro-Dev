@@ -80,11 +80,17 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
 
   ## Tecnologias de versionamento de código que utilizo: 
+
+![git-github](https://github.com/user-attachments/assets/e6b8c305-ab91-4823-8fe3-9e527fb65141)
+  
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]()
 [![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)]()
 
   ## Navegadores na qual uso para trabalhar: 
+
+![7b3531356b449d8c5895eb7803b72297](https://github.com/user-attachments/assets/ae445694-c1a4-4c7f-a705-691361ca56ac)
+
 
 [![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)]()
 [![Tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)]()
