@@ -56,7 +56,7 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
 [![Causeira](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)]()
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=whit])]()
 
-## Tecnologias de IDE que utilizo para desenvolvimento de algoritmos, nas mais diversas linguagens de programação: 
+## Programas de IDE que utilizo para desenvolvimento de algoritmos, nas mais diversas linguagens de programação: 
 
 ![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/user-attachments/assets/049b9fca-d536-4fb8-bdd9-95599eacf96d)
 
@@ -66,7 +66,7 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
 [![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)]()
 
-## Tecnologias que utlizo para criação de projetos, e documentos profissionais: 
+## Softwares que utlizo para criação de projetos, e documentos profissionais: 
 
 ![microsoft-intro](https://github.com/user-attachments/assets/ecc16122-671c-48a5-88cc-563e263a3d6d)
 
