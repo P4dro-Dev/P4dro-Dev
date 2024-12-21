@@ -26,7 +26,7 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
 
 ![5eb11602ed6c805919e0842d1b70cc9a](https://github.com/user-attachments/assets/f4a657f9-5222-4dfb-a3bf-5358d116ee34)
 
-## Tecnologias que uso no meu dia, a dia! 
+## Tecnologias que uso no meu dia, a dia para programar! 
 <div style = "Display: inline_block"><br/>
    <img aling = "" alt = "" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img aling = "" alt = "" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
