@@ -41,7 +41,7 @@ Apaixonado por Tecnologia, conhecimento, e educação!
 
 
 
-![172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7](https://github.com/user-attachments/assets/bcc4b33f-7f04-4ddd-807d-e9c1a256b0fd)
+
 
 
 
