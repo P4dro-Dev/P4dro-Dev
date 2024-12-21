@@ -8,6 +8,8 @@
 [![Itchi.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://velky07.itch.io/tnt-adventure)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
+![Marca_IFCE_-_Vertical](https://github.com/user-attachments/assets/7c56f5c9-f994-4a4b-9d83-5364f7118d3a)
+
 Atualmente, estudande do curso Técnico em informática. E informática para web. Pelo Instituto Federal de Educação, Ciências e Tecnologias do Ceará (IFCE). Com o objetivo de aperfeiçar, e ser um  Desenvolvedor web, com foco em Full Stack. E Dev iOS. Com às principais metas de se trabalhar:
 
 - 📲 Desenvolvimento iOS ...
@@ -102,6 +104,7 @@ Apaixonado por Tecnologia, conhecimento, e educação!
 ## Informações para contato:
 
   E-mail: henrique.sousa.62.ifce.edu.br
+
 
 
 
