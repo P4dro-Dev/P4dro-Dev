@@ -20,7 +20,7 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
 - 💻 Game Designer ...
 - ✨ Trabalho em equipe, e comunicação ...
   
-![imagem1](https://github.com/user-attachments/assets/fdf23f2c-4909-401f-b8b2-3b6e5410a460)
+  ![5eb11602ed6c805919e0842d1b70cc9a](https://github.com/user-attachments/assets/da00573c-0586-46c6-bf63-0f2630089569)
 
  ## SO que utilizo para trabalhar no desenvolvimento web/iOS/Jogos Digitais:
  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
@@ -30,7 +30,6 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
  [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)]()
  
 ![8d8c83e6fd50045287375032a8797318](https://github.com/user-attachments/assets/d3f161a3-8e11-416c-87d7-3cc644e67074)
-
 
 ## Tecnologias que uso no meu dia, a dia para programar! 
 <div style = "Display: inline_block"><br/>
