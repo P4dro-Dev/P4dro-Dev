@@ -15,7 +15,7 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
 - 💻 Game Designer ...
 - ✨ Trabalho em equipe, e comunicação ...
 
-![BackandDeveloper GitHub stats](https://starchart.cc/{BackandDeveloper}/{repo}.svg)
+![BackandDeveloper GitHub stats](https://starchart.cc/{username}/{repo}.svg)
 
 ![BackandDeveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=BackandDeveloper&show_icons=true&theme=radical)
  ## SO que utilizo
