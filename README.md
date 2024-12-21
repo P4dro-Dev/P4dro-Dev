@@ -15,6 +15,8 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
 - 💻 Game Designer ...
 - ✨ Trabalho em equipe, e comunicação ...
 
+![BackandDeveloper GitHub stats](https://starchart.cc/{BackandDeveloper}/{repo}.svg)
+
 ![BackandDeveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=BackandDeveloper&show_icons=true&theme=radical)
  ## SO que utilizo
  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
@@ -84,6 +86,10 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)]()
 [![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)]()
 [![Chrome](	https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)]()
+
+  ## Tecnologias de Designer: 
+ 
+[![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)]()
 
 
   
