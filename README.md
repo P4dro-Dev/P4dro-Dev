@@ -16,7 +16,8 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
 - ✨ Trabalho em equipe, e comunicação ...
 
 ![BackandDeveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=BackandDeveloper&show_icons=true&theme=radical)
- ## SO que utilizo
+
+ ## SO que utilizo para trabalhar no Desenvolimento web/iOS/Jogos Digitais:
  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
@@ -41,13 +42,13 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
 
 ![172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7](https://github.com/user-attachments/assets/bcc4b33f-7f04-4ddd-807d-e9c1a256b0fd)
 
-## Instituições que estudo para adquirir conhecimento, e ficar atualizado: 
+## Outras Instituições que estudo para adquirir conhecimento, e ficar atualizado: 
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]()
 [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)]()
 [![Causeira](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)]()
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=whit])()
 
-## Tecnologias de IDE que utilizo: 
+## Tecnologias de IDE que utilizo para desenvolvimento de algoritmos, nas mais diversas linguagens de programação: 
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 [![Visual Studio ](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=whit)
@@ -55,7 +56,7 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
 [![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-## Tecnologias que utlizo para criação de projetos, e documentos: 
+## Tecnologias que utlizo para criação de projetos, e documentos profissionais: 
 
 
   [![Microsoft Office]](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -68,12 +69,12 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
  [![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)]()
  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
 
-  ## Tecnologias de versionamento de código que utilizao no meu cotidiano: 
+  ## Tecnologias de versionamento de código que utilizao: 
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]()
 [![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)]()
 
-  ## Navegadores na qual trabalho: 
+  ## Navegadores na qual uso para trabalhar: 
 
 [![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)]()
 [![Tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)]()
