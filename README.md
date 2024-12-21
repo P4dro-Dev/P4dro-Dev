@@ -1,4 +1,4 @@
-## Olá, prazer, sou Pedro!👋
+## Hello, Word!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/qedr_o021_ti/profilecard/?igsh=YW8weHA1aWE4MHhk)
@@ -12,6 +12,8 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
 - ✨ Trabalho em equipe, e comunicação ...
 
 ![BackandDeveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=BackandDeveloper&show_icons=true&theme=radical)
+
+![5eb11602ed6c805919e0842d1b70cc9a](https://github.com/user-attachments/assets/f4a657f9-5222-4dfb-a3bf-5358d116ee34)
 
 ## Tecnologias que uso no meu dia, a dia! 
 <div style = "Display: inline_block"><br/>
@@ -36,6 +38,7 @@ Apaixonado por Tecnologia, conhecimento, e educação!
 ## Informações para contato:
 
   E-mail: henrique.sousa.62.ifce.edu.br
+
 
 
 
