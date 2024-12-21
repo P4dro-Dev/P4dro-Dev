@@ -52,7 +52,7 @@
 
 ## 🏢| Outras Instituições que estudo para adquirir conhecimento, e ficar atualizado: 
 
-
+![720cc43d757ee638ad5054a05220fafe](https://github.com/user-attachments/assets/06ad4ab5-82ae-4157-8737-7673047ff3ff)
 
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]()
 [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)]()
