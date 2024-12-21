@@ -95,6 +95,8 @@
   ## 🧷| Tecnologias de versionamento de código que utilizo para trabalho coletivo: 
 
 ![git-github](https://github.com/user-attachments/assets/e6b8c305-ab91-4823-8fe3-9e527fb65141)
+
+![4UxL](https://github.com/user-attachments/assets/c86d391c-91af-4e7c-bb90-9825ec87faae)
   
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]()
