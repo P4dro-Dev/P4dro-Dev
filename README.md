@@ -20,7 +20,7 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
 - 💻 Game Designer ...
 - ✨ Trabalho em equipe, e comunicação ...
 
-![BackandDeveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=BackandDeveloper&show_icons=true&theme=radical)
+![BackandDeveloper G![imagem1](https://github.com/user-attachments/assets/6b76d868-7b79-4dd9-b831-3f9d1063d887)   itHub stats](https://github-readme-stats.vercel.app/api?username=BackandDeveloper&show_icons=true&theme=radical)
 
  ## SO que utilizo para trabalhar no desenvolvimento web/iOS/Jogos Digitais:
  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
