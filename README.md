@@ -16,13 +16,19 @@
 📚| Atualmente, estudande do curso Técnico em Informática. E do outro curso Técnico em Informática para web. Pelo Instituto Federal de Educação, Ciências e Tecnologias do Ceará (IFCE). Com o objetivo de aperfeiçar, e ser um  Desenvolvedor web, com foco em Full Stack. E Dev iOS. Com às principais metas de se trabalhar:
 
 - 📲 Desenvolvimento iOS ...
-- 🌐 Dev Full Stack...
+- 🌐 Dev Full Stack ...
 - 💻 Game Designer ...
-- ✨ Trabalho em equipe, e comunicação ...
+- 🕹️ Desenvolvimento de Jogos Digitais ...
+- ⚛️ Machine learning ...
+- 🎲 Engenharia de Dados ...
+- 🥽🥼🔎 Pesquisa Científica ... 
+- 📱⚙️ Análise, e desenvolvimento de sistemas ...
+- 💡  Dev IA'S ...
+- 👥 Trabalho em equipe, e comunicação ...
   
   ![5eb11602ed6c805919e0842d1b70cc9a](https://github.com/user-attachments/assets/da00573c-0586-46c6-bf63-0f2630089569)
 
- ## 🛡️| SO que utilizo para trabalhar no Desenvolimento Web | iOS | Jogos Digitais:
+ ## 🛡️| SO que utilizo para trabalhar no Desenvolvimento Web | iOS | Jogos Digitais:
  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
@@ -51,7 +57,7 @@
 
 ![172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7](https://github.com/user-attachments/assets/bcc4b33f-7f04-4ddd-807d-e9c1a256b0fd)
 
-## 🏢| Outras Instituições que estudo para adquirir conhecimento, e ficar atualizado: 
+##  🏢| Outras Instituições que estudo para adquirir conhecimento, e ficar atualizado: 
 
 ![720cc43d757ee638ad5054a05220fafe](https://github.com/user-attachments/assets/06ad4ab5-82ae-4157-8737-7673047ff3ff)
 
@@ -60,7 +66,7 @@
 [![Causeira](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)]()
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=whit])]()
 
-## 🖥️| Programas de IDE que utilizo para desenvolvimento de algoritmos, nas mais diversas linguagens de programação: 
+##  🖥️| Programas de IDE que utilizo para desenvolvimento de algoritmos, nas mais diversas linguagens de programação: 
 
 ![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/user-attachments/assets/049b9fca-d536-4fb8-bdd9-95599eacf96d)]
 
@@ -86,7 +92,7 @@
  [![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)]()
  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
 
-  ## 🧷| Tecnologias de versionamento de código que utilizo: 
+  ## 🧷| Tecnologias de versionamento de código que utilizo para trabalho coletivo: 
 
 ![git-github](https://github.com/user-attachments/assets/e6b8c305-ab91-4823-8fe3-9e527fb65141)
   
