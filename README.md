@@ -29,7 +29,7 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
    <img aling = "" alt = "" src  = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
 </div>
 
-![bc87e5124f8d2cfe810d403adc96ad01](https://github.com/user-attachments/assets/c505e632-8cb8-4889-9055-d0feeee16664)
+![172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7](https://github.com/user-attachments/assets/bcc4b33f-7f04-4ddd-807d-e9c1a256b0fd)
 
 Apaixonado por Tecnologia, conhecimento, e educação! 
 
@@ -41,6 +41,7 @@ Apaixonado por Tecnologia, conhecimento, e educação!
 
 
 
+![172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7](https://github.com/user-attachments/assets/bcc4b33f-7f04-4ddd-807d-e9c1a256b0fd)
 
 
 
