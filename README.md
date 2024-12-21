@@ -38,6 +38,7 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
    <img aling = "" alt = "" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
    <img aling = "" alt = "" src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
    <img aling = "" alt = "" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whit"/>
+  <img aling = "" alt = "" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
 
 ![172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7](https://github.com/user-attachments/assets/bcc4b33f-7f04-4ddd-807d-e9c1a256b0fd)
