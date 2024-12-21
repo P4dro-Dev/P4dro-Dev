@@ -13,7 +13,7 @@
 
 ![Marca_IFCE_-_Horizontal](https://github.com/user-attachments/assets/46042014-b497-4271-8588-62d6efbb1951)
 
-Atualmente, estudande do curso Técnico em Informática. E do outro curso Técnico em Informática para web. Pelo Instituto Federal de Educação, Ciências e Tecnologias do Ceará (IFCE). Com o objetivo de aperfeiçar, e ser um  Desenvolvedor web, com foco em Full Stack. E Dev iOS. Com às principais metas de se trabalhar:
+📚| Atualmente, estudande do curso Técnico em Informática. E do outro curso Técnico em Informática para web. Pelo Instituto Federal de Educação, Ciências e Tecnologias do Ceará (IFCE). Com o objetivo de aperfeiçar, e ser um  Desenvolvedor web, com foco em Full Stack. E Dev iOS. Com às principais metas de se trabalhar:
 
 - 📲 Desenvolvimento iOS ...
 - 🌐 Dev Full Stack...
@@ -22,7 +22,7 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
   
   ![5eb11602ed6c805919e0842d1b70cc9a](https://github.com/user-attachments/assets/da00573c-0586-46c6-bf63-0f2630089569)
 
- ## SO que utilizo para trabalhar no desenvolvimento web/iOS/Jogos Digitais:
+ ## 🛡️| SO que utilizo para trabalhar no desenvolvimento web/iOS/Jogos Digitais:
  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
@@ -31,7 +31,7 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
  
 ![8d8c83e6fd50045287375032a8797318](https://github.com/user-attachments/assets/d3f161a3-8e11-416c-87d7-3cc644e67074)
 
-## Tecnologias que uso no meu dia, a dia para programar! 
+##  ⚛️| Tecnologias que uso no meu dia, a dia para programar! 
 <div style = "Display: inline_block"><br/>
    <img aling = "" alt = "" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img aling = "" alt = "" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -50,13 +50,13 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
 
 ![172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7](https://github.com/user-attachments/assets/bcc4b33f-7f04-4ddd-807d-e9c1a256b0fd)
 
-## Outras Instituições que estudo para adquirir conhecimento, e ficar atualizado: 
+## 🏢| Outras Instituições que estudo para adquirir conhecimento, e ficar atualizado: 
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]()
 [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)]()
 [![Causeira](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)]()
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=whit])]()
 
-## Programas de IDE que utilizo para desenvolvimento de algoritmos, nas mais diversas linguagens de programação: 
+## 🖥️| Programas de IDE que utilizo para desenvolvimento de algoritmos, nas mais diversas linguagens de programação: 
 
 ![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/user-attachments/assets/049b9fca-d536-4fb8-bdd9-95599eacf96d)
 
@@ -66,7 +66,7 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
 [![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)]()
 
-## Softwares que utlizo para criação de projetos, e documentos profissionais: 
+## 🗂️| Softwares que utlizo para criação de projetos, e documentos profissionais: 
 
 ![microsoft-intro](https://github.com/user-attachments/assets/ecc16122-671c-48a5-88cc-563e263a3d6d)
 
@@ -79,7 +79,7 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
  [![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)]()
  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
 
-  ## Tecnologias de versionamento de código que utilizo: 
+  ## 🧷| Tecnologias de versionamento de código que utilizo: 
 
 ![git-github](https://github.com/user-attachments/assets/e6b8c305-ab91-4823-8fe3-9e527fb65141)
   
@@ -87,7 +87,7 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
 [![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]()
 [![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)]()
 
-  ## Navegadores na qual uso para trabalhar: 
+  ## 🌐| Navegadores na qual uso para trabalhar: 
 
 ![7b3531356b449d8c5895eb7803b72297](https://github.com/user-attachments/assets/ae445694-c1a4-4c7f-a705-691361ca56ac)
 
@@ -100,21 +100,19 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
 [![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)]()
 [![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)]()
 
-  ## Tecnologias de Designer: 
- 
-[![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)]()
-
+  ## 🖋️| Tecnologias de Designer: 
 
   
-
+ 
+[![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)]()
 
 Apaixonado por Tecnologia, conhecimento, e educação! 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-## Informações para contato:
+## 📧| Informações para contato:
 
-  E-mail: henrique.sousa.62.ifce.edu.br
+  📩| E-mail: henrique.sousa.62.ifce.edu.br
 
 
 
