@@ -23,9 +23,11 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
    <img aling = "" alt = "" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img aling = "" alt = "" src = "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=whit" />
    <img aling = "" alt = "" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-   <img  aling = "" alt = "" src  = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-   <img  aling = "" alt = "" src  = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+   <img aling = "" alt = "" src  = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+   <img aling = "" alt = "" src  = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
 </div>
+
+![bc87e5124f8d2cfe810d403adc96ad01](https://github.com/user-attachments/assets/c505e632-8cb8-4889-9055-d0feeee16664)
 
 Apaixonado por Tecnologia, conhecimento, e educação! 
 
@@ -34,6 +36,7 @@ Apaixonado por Tecnologia, conhecimento, e educação!
 ## Informações para contato:
 
   E-mail: henrique.sousa.62.ifce.edu.br
+
 
 
 
