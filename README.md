@@ -11,7 +11,7 @@
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
-![dc069ce7-2e99-4381-9427-470d3d0cbab8](https://github.com/user-attachments/assets/bc47b941-a40c-4452-91e8-92263b571b3f)
+![42b489d6-afb3-4851-9811-89aa2974fbe3](https://github.com/user-attachments/assets/b22ff9a2-40df-4b77-b738-cbdee967fdcc)
 
 📚| Atualmente, estudande do curso Técnico em Informática. E do outro curso Técnico em Informática para web. Pelo Instituto Federal de Educação, Ciências e Tecnologias do Ceará (IFCE). Com o objetivo de aperfeiçar, e ser um  Desenvolvedor web, com foco em Full Stack. E Dev iOS. Com às principais metas de se trabalhar:
 
