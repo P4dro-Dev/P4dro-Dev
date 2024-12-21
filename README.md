@@ -20,7 +20,7 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
 - 💻 Game Designer ...
 - ✨ Trabalho em equipe, e comunicação ...
 
-![BackandDeveloper G![imagem1](https://github.com/user-attachments/assets/6b76d868-7b79-4dd9-b831-3f9d1063d887)   itHub stats](https://github-readme-stats.vercel.app/api?username=BackandDeveloper&show_icons=true&theme=radical)
+![BackandDeveloper G![imagem1](https://github.com/user-attachments/assets/6b76d868-7b79-4dd9-b831-3f9d1063d887)   
 
  ## SO que utilizo para trabalhar no desenvolvimento web/iOS/Jogos Digitais:
  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
@@ -57,6 +57,8 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=whit])]()
 
 ## Tecnologias de IDE que utilizo para desenvolvimento de algoritmos, nas mais diversas linguagens de programação: 
+
+itHub stats](https://github-readme-stats.vercel.app/api?username=BackandDeveloper&show_icons=true&theme=radical)
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=whit)]()
