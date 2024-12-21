@@ -19,8 +19,8 @@ Atualmente, estudande do curso Técnico em Informática. E do outro curso Técni
 - 🌐 Dev Full Stack...
 - 💻 Game Designer ...
 - ✨ Trabalho em equipe, e comunicação ...
-
-![BackandDeveloper G![imagem1](https://github.com/user-attachments/assets/6b76d868-7b79-4dd9-b831-3f9d1063d887)   
+  
+![imagem1](https://github.com/user-attachments/assets/fdf23f2c-4909-401f-b8b2-3b6e5410a460)
 
  ## SO que utilizo para trabalhar no desenvolvimento web/iOS/Jogos Digitais:
  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
