@@ -23,6 +23,8 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
    <img aling = "" alt = "" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img aling = "" alt = "" src = "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=whit" />
    <img aling = "" alt = "" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+   <img  aling = "" alt = "" src  = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+   <img  aling = "" alt = "" src  = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
 </div>
 
 Apaixonado por Tecnologia, conhecimento, e educação! 
