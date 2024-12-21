@@ -17,7 +17,7 @@ Atualmente, estudande do curso Técnico em informática. E informática para web
 
 ![BackandDeveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=BackandDeveloper&show_icons=true&theme=radical)
 
- ## SO que utilizo para trabalhar no Desenvolimento web/iOS/Jogos Digitais:
+ ## SO que utilizo para trabalhar no desenvolvimento web/iOS/Jogos Digitais:
  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
