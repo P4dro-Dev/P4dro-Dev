@@ -28,7 +28,7 @@
   
   ![5eb11602ed6c805919e0842d1b70cc9a](https://github.com/user-attachments/assets/da00573c-0586-46c6-bf63-0f2630089569)
 
- ## 🛡️| SO que utilizo para trabalhar no Desenvolvimento Web | iOS | Jogos Digitais:
+ ## 🛡️| SO que utilizo para trabalhar no Desenvolvimento de Software:
  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
@@ -38,7 +38,7 @@
  
 ![8d8c83e6fd50045287375032a8797318](https://github.com/user-attachments/assets/d3f161a3-8e11-416c-87d7-3cc644e67074)
 
-##  ⚛️| Tecnologias que uso no meu dia, a dia para programar! 
+##  ⚛️| Tecnologias que uso no meu dia, a dia para programação Full Stack Web | iOS | Jogos Digitais:
 <div style = "Display: inline_block"><br/>
    <img aling = "" alt = "" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img aling = "" alt = "" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
