@@ -57,7 +57,7 @@
 
 ![172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7](https://github.com/user-attachments/assets/bcc4b33f-7f04-4ddd-807d-e9c1a256b0fd)
 
-##  🏢| Outras Instituições que estudo para adquirir conhecimento, e ficar atualizado: 
+##  🏢| Outras fontes de conhecimento que utilizo para ficar atualizado sobre o mundo da Tecnoliga da Informação (TI): 
 
 ![720cc43d757ee638ad5054a05220fafe](https://github.com/user-attachments/assets/06ad4ab5-82ae-4157-8737-7673047ff3ff)
 
