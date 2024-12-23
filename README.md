@@ -107,25 +107,25 @@
 
   <img src="https://github.com/user-attachments/assets/cf15d081-0515-4e90-8b48-42747ff2f000" width="320" height="200">
   
-[![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
-[![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]()
-[![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)]()
+[![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://www.dio.me/articles/guia-passo-a-passo-como-instalar-o-git-no-windows-e-linux#:~:text=O%20Git%20%C3%A9%20um%20sistema,operacionais%2C%20incluindo%20Windows%20e%20Linux.)
+[![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)](https://learn.microsoft.com/pt-br/windows/terminal/)
+[![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)](https://www.renesena.com.br/blog/terminal-customiz%C3%A1vel-com-hyper/#:~:text=O%20Hyper%20%C3%A9%20um%20terminal,ajudem%20a%20ter%20mais%20produtividade.)
 
   ## 🌐| Navegadores na qual uso para trabalhar no Desenvolvimento de Software: 
   
 <img src="https://github.com/user-attachments/assets/ae445694-c1a4-4c7f-a705-691361ca56ac" width="200" height="200">
 
-[![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)]()
-[![Tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)]()
-[![FireFox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)]()
-[![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)]()
-[![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)]()
-[![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)]()
-[![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)]()
+[![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)](https://microsoft-edge.br.uptodown.com/windows#:~:text=Microsoft%20Edge%20%C3%A9%20o%20navegador,as%20extens%C3%B5es%20do%20Google%20Chrome.)
+[![Tor](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://www.torproject.org/pt-BR/download/)
+[![FireFox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.techtudo.com.br/tudo-sobre/firefox/#:~:text=Firefox%20%C3%A9%20um%20navegador%20dispon%C3%ADvel,o%20concorrente%20do%20Google%20Chrome.)
+[![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/pt-br/download/#:~:text=O%20Brave%20est%C3%A1%20dispon%C3%ADvel%20como,e%20a%20carga%20da%20bateria.)
+[![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://www.opera.com/pt-br/download)
+[![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)](https://www.apple.com/br/safari/)
+[![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://support.google.com/chrome/answer/95346?hl=pt-BR&co=GENIE.Platform%3DAndroid)
 
   ## 🖋️| Tecnologias de Designer: 
 
-[![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)]()
+[![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)](https://www.techtudo.com.br/tudo-sobre/adobe-photoshop/#:~:text=Adobe%20Photoshop%20%C3%A9%20um%20programa,Android%20ou%20iPhone%20(iOS).&text=Vale%20ressaltar%20que%20n%C3%A3o%20existe,poss%C3%ADvel%20usar%20o%20Photoshop%20online.)
 
 Apaixonado por Tecnologia, conhecimento, e educação. Com a meta, e foco de se utilizar da Tecnolgia para constuir um mundo melhor. E mais acessível, e justo a todas as pessoas!
 
