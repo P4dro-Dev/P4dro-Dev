@@ -133,7 +133,7 @@
 
    🎮| Fiz parte do desenvolvimento de um game, para a empresa de enérgico TNT Driks. Junto com outras 17 pessoas que parciparam do projeto. Aonde cada membro teve sua função na criação. E foi desenvolvido um game 2D (Bidimensional) de aventura, que contém a marca da empresa dentro do ambiente do game. Esse jogo foi o projeto final do BootCamp de Desenvolvimento de Games da SoulCode Academy + TNT Driks + Grupo Petrópolis. Nos site abaixo, é possível ver todos os integrantes que ajudaram de alguma forma da construção do game. E no itch.io, tem o link do game disponíel para baixar nos mais diversos sistemas operacionais! 👾⬇️
 
-[![Site TNT](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/BackandDeveloper)
+[![Site TNT](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://site-games-soul-code.vercel.app/)
 [![Itchi.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://velky07.itch.io/tnt-adventure)
   
 
