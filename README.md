@@ -32,7 +32,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/b2d98b83-2634-4995-80a4-e0193577d26c" width="300" height="300">
+      <img src="https://github.com/user-attachments/assets/a9145c81-f95e-4b60-b0d3-2001a6a22ba0" width="200" height="200">
     </td>
   </tr>
 </table>
@@ -146,7 +146,8 @@ Apaixonado por Tecnologia, conhecimento, e educação. Com a meta, e foco de se 
 
 
 
-![zym5pybotlja1](https://github.com/user-attachments/assets/b2d98b83-2634-4995-80a4-e0193577d26c)
+
+
 
 
 
