@@ -28,17 +28,7 @@
   
   ![5eb11602ed6c805919e0842d1b70cc9a](https://github.com/user-attachments/assets/da00573c-0586-46c6-bf63-0f2630089569)
 
- ## 🛡️| SO que utilizo para trabalhar no Desenvolvimento de Software:
- [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
- [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
- [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
- [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)]()
- [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)]()
- 
-![8d8c83e6fd50045287375032a8797318](https://github.com/user-attachments/assets/d3f161a3-8e11-416c-87d7-3cc644e67074)
-
-##  ⚛️| Tecnologias que uso no meu dia, a dia para programação Full Stack Web | iOS | Jogos Digitais:
+  ##  ⚛️| Tecnologias que uso no meu dia, a dia para programação Full Stack Web | iOS | Jogos Digitais:
 <div style = "Display: inline_block"><br/>
    <img aling = "" alt = "" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img aling = "" alt = "" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -55,7 +45,17 @@
    <img aling = "" alt = "" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
-![172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7](https://github.com/user-attachments/assets/bcc4b33f-7f04-4ddd-807d-e9c1a256b0fd)
+![8d8c83e6fd50045287375032a8797318](https://github.com/user-attachments/assets/d3f161a3-8e11-416c-87d7-3cc644e67074)
+
+## 🛡️| SO que utilizo para trabalhar no Desenvolvimento de Software:
+ [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
+ [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+ [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+ [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+ [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)]()
+ [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)]()
+ 
+![yetopen](https://github.com/user-attachments/assets/eea3f0d3-024d-41d5-9bba-9257b0b4da5a)
 
 ##  🏢| Outras fontes de conhecimento que utilizo para ficar atualizado sobre o mundo da Tecnoliga da Informação (TI): 
 
