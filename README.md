@@ -104,11 +104,9 @@
  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
 
   ## 🧷| Tecnologias de versionamento de código que utilizo para trabalho coletivo: 
-  
-<img src="https://github.com/user-attachments/assets/e6b8c305-ab91-4823-8fe3-9e527fb65141" width="300" height="300">
 
-<img src="https://github.com/user-attachments/assets/c86d391c-91af-4e7c-bb90-9825ec87faae" width="200" height="200">
-  
+ ![1_sOWIyC1rjrWSUdIS1KvyHw](https://github.com/user-attachments/assets/03a7251c-a9c7-4a7e-a816-589059615aac)
+ 
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]()
 [![Hyper](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)]()
