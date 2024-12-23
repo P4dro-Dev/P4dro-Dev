@@ -105,7 +105,8 @@
 
   ## 🧷| Tecnologias de versionamento de código que utilizo para trabalho coletivo: 
   
-<img src="https://github.com/user-attachments/assets/e6b8c305-ab91-4823-8fe3-9e527fb65141" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/e6b8c305-ab91-4823-8fe3-9e527fb65141" width="300" height="300">
+
 <img src="https://github.com/user-attachments/assets/c86d391c-91af-4e7c-bb90-9825ec87faae" width="200" height="200">
   
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
