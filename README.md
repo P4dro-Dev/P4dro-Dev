@@ -129,6 +129,14 @@
 
 [![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)](https://www.techtudo.com.br/tudo-sobre/adobe-photoshop/#:~:text=Adobe%20Photoshop%20%C3%A9%20um%20programa,Android%20ou%20iPhone%20(iOS).&text=Vale%20ressaltar%20que%20n%C3%A3o%20existe,poss%C3%ADvel%20usar%20o%20Photoshop%20online.)
 
+  ## 📋| Projetos na qual fiz parte: 
+
+  [![Web Site]([https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://site-games-soul-code.vercel.app/)]
+
+[![Itchi.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://velky07.itch.io/tnt-adventure)
+  
+https://site-games-soul-code.vercel.app/
+
 Apaixonado por Tecnologia, conhecimento, e educação. Com a meta, e foco de se utilizar da Tecnolgia para constuir um mundo melhor. E mais acessível, e justo a todas as pessoas!
 
 ⚛️| Sᴛᴇᴘʜᴇɴ Hᴀᴡᴋɪɴɢ: "Uᴍ ᴛʀᴀʙᴀʟʜᴏ ᴛᴇ ᴅᴀ́ ᴜᴍ ᴘʀᴏᴘᴏ́sɪᴛᴏ, ᴇ ᴜᴍ sɪɢɴɪғɪᴄᴀᴅᴏ. A ᴠɪᴅᴀ ᴇ́ ᴠᴀᴢɪᴀ sᴇᴍ ᴀᴍʙᴏs!" 🖥️✨💡
