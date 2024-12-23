@@ -65,8 +65,8 @@
  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
  [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)]()
  [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)]()
- 
-![yetopen](https://github.com/user-attachments/assets/eea3f0d3-024d-41d5-9bba-9257b0b4da5a)
+
+ <img src="https://github.com/user-attachments/assets/eea3f0d3-024d-41d5-9bba-9257b0b4da5a" width="200" height="200">
 
 ##  🏢| Outras fontes de conhecimento que utilizo para ficar atualizado sobre o mundo da Tecnoliga da Informação (TI): 
 
@@ -79,7 +79,7 @@
 
 ##  🖥️| Programas de IDE que utilizo para desenvolvimento de algoritmos, nas mais diversas linguagens de programação: 
 
-<img src="https://github.com/user-attachments/assets/3e24d113-9b9a-424f-9419-6285c9b179fa" width="250" height="200">
+<img src="https://github.com/user-attachments/assets/3e24d113-9b9a-424f-9419-6285c9b179fa" width="200" height="200">
 
 [![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
