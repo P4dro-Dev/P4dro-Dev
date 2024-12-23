@@ -104,7 +104,8 @@
  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
 
   ## 🧷| Tecnologias de versionamento de código que utilizo para trabalho coletivo: 
-  
+
+  <img src="https://github.com/user-attachments/assets/cf15d081-0515-4e90-8b48-42747ff2f000" width="200" height="200">
 ![1-sOWIyC1rjrWSUdIS1KvyHw-unscreen (1) (2)](https://github.com/user-attachments/assets/cf15d081-0515-4e90-8b48-42747ff2f000)
 
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
