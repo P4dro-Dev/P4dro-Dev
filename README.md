@@ -5,7 +5,7 @@
 [![You Tube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Reciclagem_e_inovacao_AJAs)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BackandDeveloper/BackandDeveloper/edit/main/README.md)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-[![Itchi.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://velky07.itch.io/tnt-adventure)
+[![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://pedro-henrique-sousa.itch.io/)
 [![Redti](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Intelligent_Bit_314/)
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/pedroh1_31411)
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PedroHe12287507?t=dD2KuQpwq2nB5CgqlkYV6g&s=09)
@@ -131,7 +131,7 @@
 
   ## 📋| Projetos na qual fiz parte: 
 
-   🎮 |Fiz parte do desenvolvimento de um game, para a empresa de enérgico TNT Driks. Junto com outras 17 pessoas que parciparam do projeto. Aonde cada membro teve sua função na criação. E foi desenvolvido um game 2D (Bidimensional) de aventura, que contém a marca da empresa dentro do ambiente do game. Esse jogo foi o projeto final do BootCamp de Desenvolvimento de Games da SoulCode Academy + TNT Driks + Grupo Petrópolis. Nos site abaixo, é possível ver todos os integrantes que ajudaram de alguma forma da construção do game. E no itchi.io, tem o link do game disponíel para baixar nos mais diversos sistemas operacionais! 👾⬇️
+   🎮| Fiz parte do desenvolvimento de um game, para a empresa de enérgico TNT Driks. Junto com outras 17 pessoas que parciparam do projeto. Aonde cada membro teve sua função na criação. E foi desenvolvido um game 2D (Bidimensional) de aventura, que contém a marca da empresa dentro do ambiente do game. Esse jogo foi o projeto final do BootCamp de Desenvolvimento de Games da SoulCode Academy + TNT Driks + Grupo Petrópolis. Nos site abaixo, é possível ver todos os integrantes que ajudaram de alguma forma da construção do game. E no itch.io, tem o link do game disponíel para baixar nos mais diversos sistemas operacionais! 👾⬇️
 
 [![Site TNT](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/BackandDeveloper)
 [![Itchi.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://velky07.itch.io/tnt-adventure)
