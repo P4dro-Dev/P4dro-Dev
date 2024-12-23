@@ -131,11 +131,11 @@
 
   ## 📋| Projetos na qual fiz parte: 
 
-  [![Web Site]([https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://site-games-soul-code.vercel.app/)]
+[![Site TNT](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/BackandDeveloper)
 
 [![Itchi.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://velky07.itch.io/tnt-adventure)
   
-https://site-games-soul-code.vercel.app/
+
 
 Apaixonado por Tecnologia, conhecimento, e educação. Com a meta, e foco de se utilizar da Tecnolgia para constuir um mundo melhor. E mais acessível, e justo a todas as pessoas!
 
