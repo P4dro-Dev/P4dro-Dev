@@ -79,7 +79,7 @@
 
 ##  🖥️| Programas de IDE que utilizo para desenvolvimento de algoritmos, nas mais diversas linguagens de programação: 
 
-<img src="[https://github.com/user-attachments/assets/ae445694-c1a4-4c7f-a705-691361ca56ac](https://github.com/user-attachments/assets/049b9fca-d536-4fb8-bdd9-95599eacf96d)" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/ae445694-c1a4-4c7f-a705-691361ca56ac](https://github.com/user-attachments/assets/049b9fca-d536-4fb8-bdd9-95599eacf96d" width="200" height="200">
 
 [![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
