@@ -13,18 +13,29 @@
 
 ![ifce107811](https://github.com/user-attachments/assets/180fcb03-010e-4abb-bb6b-953b2fa8ee3f)
 
-📚| Atualmente, estudande do curso Técnico em Informática. E do outro curso Técnico em Informática para web. Pelo Instituto Federal de Educação, Ciências e Tecnologias do Ceará (IFCE). Com o objetivo de aperfeiçar, e ser um  Desenvolvedor web, com foco em Full Stack. E Dev iOS. Com às principais metas de se trabalhar:
+📚| Atualmente, estudande do curso Técnico em Informática. E do outro curso Técnico em Informática para web. Pelo Instituto Federal de Educação, Ciências e Tecnologias do Ceará (IFCE). Com o objetivo de aperfeiçar, e ser um Desenvolvedor web, com foco em Full Stack. E Dev iOS. Com às principais metas de se trabalhar:
 
-- 📲 Desenvolvimento iOS ...
-- 🌐 Dev Full Stack ...
-- 💻 Game Designer ...
-- 🕹️ Desenvolvimento de Jogos Digitais ...                           <img src="https://github.com/user-attachments/assets/cdc4b602-ef9a-4157-8c02-4aaa53ee70cb" width="200" height="200">
-- ⚛️ Machine learning ...                                                                                         
-- 🎲 Engenharia de Dados ...
-- 🔎 Pesquisa Científica ... 
-- ⚙️ Engenharia de Software ...
-- 💡  Dev IA'S ...
-- 👥 Trabalho em equipe, e comunicação ...
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>📲 Desenvolvimento iOS ...</li>
+        <li>🌐 Dev Full Stack ...</li>
+        <li>💻 Game Designer ...</li>
+        <li>🕹️ Desenvolvimento de Jogos Digitais ...</li>
+        <li>⚛️ Machine learning ...</li>
+        <li>🎲 Engenharia de Dados ...</li>
+        <li>🔎 Pesquisa Científica ...</li>
+        <li>⚙️ Engenharia de Software ...</li>
+        <li>💡 Dev IA'S ...</li>
+        <li>👥 Trabalho em equipe, e comunicação ...</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/cdc4b602-ef9a-4157-8c02-4aaa53ee70cb" width="200" height="200">
+    </td>
+  </tr>
+</table>
   
   ##  ⚛️| Tecnologias que uso no meu dia, a dia para programação Full Stack Web | iOS | Jogos Digitais:
 <div style = "Display: inline_block"><br/>
