@@ -70,7 +70,7 @@
 
 ##  🏢| Outras fontes de conhecimento que utilizo para ficar atualizado sobre o mundo da Tecnoliga da Informação (TI): 
 
-![720cc43d757ee638ad5054a05220fafe](https://github.com/user-attachments/assets/06ad4ab5-82ae-4157-8737-7673047ff3ff)
+<img src="https://github.com/user-attachments/assets/06ad4ab5-82ae-4157-8737-7673047ff3ff" width="200" height="200">
 
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]()
 [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)]()
@@ -79,7 +79,7 @@
 
 ##  🖥️| Programas de IDE que utilizo para desenvolvimento de algoritmos, nas mais diversas linguagens de programação: 
 
-![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/user-attachments/assets/049b9fca-d536-4fb8-bdd9-95599eacf96d)
+<img src="[https://github.com/user-attachments/assets/ae445694-c1a4-4c7f-a705-691361ca56ac](https://github.com/user-attachments/assets/049b9fca-d536-4fb8-bdd9-95599eacf96d)" width="200" height="200">
 
 [![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
