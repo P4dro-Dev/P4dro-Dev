@@ -32,7 +32,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/cdc4b602-ef9a-4157-8c02-4aaa53ee70cb" width="200" height="200">
+      <img src="(https://github.com/user-attachments/assets/87bdd0cc-c943-45b6-aa54-76d9f8779df4)" width="200" height="200">
     </td>
   </tr>
 </table>
@@ -141,6 +141,7 @@ Apaixonado por Tecnologia, conhecimento, e educação. Com a meta, e foco de se 
 ## 📧| Informações para contato:
 
   📩| E-mail: henrique.sousa.62.ifce.edu.br
+
 
 
 
