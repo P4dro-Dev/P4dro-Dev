@@ -32,7 +32,7 @@
       </ul>
     </td>
     <td>
-      <img src="![zym5pybotlja1](https://github.com/user-attachments/assets/b2d98b83-2634-4995-80a4-e0193577d26c)" width="300" height="300">
+      <img src="https://github.com/user-attachments/assets/b2d98b83-2634-4995-80a4-e0193577d26c" width="300" height="300">
     </td>
   </tr>
 </table>
