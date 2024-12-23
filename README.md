@@ -59,12 +59,12 @@
 ![8d8c83e6fd50045287375032a8797318](https://github.com/user-attachments/assets/d3f161a3-8e11-416c-87d7-3cc644e67074)
 
 ## 🛡️| SO que utilizo para trabalhar no Desenvolvimento de Software:
- [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
- [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
- [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
- [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
- [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)]()
- [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)]()
+ [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.melhoreshospedagem.com/kali-linux/#:~:text=O%20Kali%20Linux%20%C3%A9%20uma,de%20penetra%C3%A7%C3%A3o%20e%20investiga%C3%A7%C3%B5es%20forenses.)
+ [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.hostgator.com.br/blog/linux-tudo-sobre-sistema/)
+ [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.techtudo.com.br/tudo-sobre/windows/)
+ [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://www.hostinger.com.br/tutoriais/o-que-e-ubuntu-linux)
+ [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/intro/about.pt.html)
+ [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/br/support/xcode/)
 
  <img src="https://github.com/user-attachments/assets/eea3f0d3-024d-41d5-9bba-9257b0b4da5a" width="200" height="200">
 
