@@ -32,7 +32,7 @@
       </ul>
     </td>
     <td>
-      <img src="![f58fe8e19a7e25ddf0c459a3599261d6](https://github.com/user-attachments/assets/87bdd0cc-c943-45b6-aa54-76d9f8779df4)" width="200" height="200">
+      <img src="![f58fe8e19a7e25ddf0c459a3599261d6](https://github.com/user-attachments/assets/87bdd0cc-c943-45b6-aa54-76d9f8779df4)" width="300" height="300">
     </td>
   </tr>
 </table>
