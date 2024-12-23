@@ -16,22 +16,22 @@
 📚| Atualmente, estudande do curso Técnico em Informática. E do outro curso Técnico em Informática para web. Pelo Instituto Federal de Educação, Ciências e Tecnologias do Ceará (IFCE). Com o objetivo de aperfeiçar, e ser um Desenvolvedor web, com foco em Full Stack. E Dev iOS. Com às principais metas de se trabalhar:
 
 <table>
-  <tr>
-    <td>
-      <ul>
-        <li>📲 Desenvolvimento iOS ...</li>
-        <li>🌐 Dev Full Stack ...</li>
-        <li>💻 Game Designer ...</li>
-        <li>🕹️ Desenvolvimento de Jogos Digitais ...</li>
-        <li>⚛️ Machine learning ...</li>
-        <li>🎲 Engenharia de Dados ...</li>
-        <li>🔎 Pesquisa Científica ...</li>
-        <li>⚙️ Engenharia de Software ...</li>
-        <li>💡 Dev IA'S ...</li>
-        <li>👥 Trabalho em equipe, e comunicação ...</li>
-      </ul>
-    </td>
-    <td>
+      <tr>
+        <td>
+          <ul>
+           <li>📲 Desenvolvimento iOS ...</li>
+           <li>🌐 Dev Full Stack ...</li>
+           <li>💻 Game Designer ...</li>
+           <li>🕹️ Desenvolvimento de Jogos Digitais ...</li>
+           <li>⚛️ Machine learning ...</li>
+           <li>🎲 Engenharia de Dados ...</li>
+           <li>🔎 Pesquisa Científica ...</li>
+           <li>⚙️ Engenharia de Software ...</li>
+          <li>💡 Dev IA'S ...</li>
+          <li>👥 Trabalho em equipe, e comunicação ...</li>
+        </ul>
+      </td>
+     <td>
       <img src="https://github.com/user-attachments/assets/a9145c81-f95e-4b60-b0d3-2001a6a22ba0" width="300" height="200">
     </td>
   </tr>
