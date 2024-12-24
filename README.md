@@ -18,7 +18,7 @@
 
  <img src="https://github.com/user-attachments/assets/180fcb03-010e-4abb-bb6b-953b2fa8ee3f" width="350" height="150">
 
-📚| Atualmente, estudande do curso Técnico em Informática. E do outro curso Técnico em, Informática para web. Pelo Instituto Federal de Educação, Ciências e Tecnologias do Ceará (IFCE). Com o objetivo de aperfeiçoar, e ser um Desenvolvedor web, com foco em Full Stack. E Dev iOS. Com às principais metas de se trabalhar:
+📚| Atualmente, estudande do curso Técnico em Informática. E do outro curso Técnico em, Informática para web. Pelo Instituto Federal de Educação, Ciências e Tecnologias do Ceará (IFCE). Com o objetivo de aperfeiçoar, e ser um Desenvolvedor web, com foco em Full Stack, E Dev iOS. Com às principais metas de se trabalhar:
 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
   <table>
@@ -75,7 +75,7 @@
 
  <img src="https://github.com/user-attachments/assets/eea3f0d3-024d-41d5-9bba-9257b0b4da5a" width="200" height="200">
 
-##  🏢| Outras fontes de conhecimento que utilizo para ficar atualizado sobre o mundo da Tecnoliga da Informação (TI): 
+##  🌍| Outras fontes de conhecimento que utilizo para ficar atualizado sobre o mundo da Tecnoliga da Informação (TI): 
 
 <img src="https://github.com/user-attachments/assets/fec43872-c673-4322-8fab-e84fd7cf248e" width="200" height="200">
 
@@ -146,6 +146,8 @@
   🌐| Também tive o prazer de participar de uma equipe de desenvolvimento. Com meus amigos, sendo eles, Gabriel, Saly, Caio, e Firmino. Aonde tivemos o trabalho dentro do curso Full Stack, do Instituto Atlântico, e Universidade Estadual do Ceará. De desenvolver um Front-and básico usando às Tecnologias Básicas. Que foram: HTML + CSS + JS. Aonde trabalhamos em grupo para criar essa parte visual de um site. Foi uma experiência incrível. Aonde foi possível fazer Network, e ter experiência pro mercado de trabalho de desenvolvedor web. 💻⬇️
 
 [![Site da Olimpo Alto Peças](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vaghenrique.github.io/FSN5-GRUPO02-AUTOPECAS/)
+
+  📲| E estou atuando na linha de frente de um projeto de desenvolvimento de softaware iOS, como Engenheiro de Software. Com a responsabilidade de estruturar, guiar, e desenvolver todo o sistema Back-and com o meu amigo, José Gabriel. Sendo uma equipe de 5 pessoas. 3 Designers profissionais, e 2 programadores iOS. Com a finalidade de criar um app, sendo uma junção do tema de Pet's + Lembretes. Uma caderneta de saúde para Pet's. Com o nome de SKY Pet. E estamos tendo o prazo de 5 meses corridos para criar às 3 telas, e desenvolver o aplicativo em um todo. 100% funcional! 📱💾📖
 
 Apaixonado por Tecnologia, conhecimento, e educação. Com a meta, e foco de se utilizar da Tecnolgia para constuir um mundo melhor. E mais acessível, e justo a todas as pessoas!
 
