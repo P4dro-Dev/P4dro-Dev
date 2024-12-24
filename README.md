@@ -137,8 +137,10 @@
 
 [![Site TNT](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://site-games-soul-code.vercel.app/)
 [![Itchi.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://velky07.itch.io/tnt-adventure)
-  
 
+  🌐| Também tive o prazer de participar de uma equipe de desenvolvimento. Com meus amigos, sendo eles, Gabriel, Saly, Caio, e Firmino. Aonde tivemos o trabalho dentro do curso Full Stack, do Instituto Atlântico, e Universidade Estadual do Ceará. De desenvolver um Front-and básico usando às Tecnologias Básicas. Que foram: HTML + CSS + JS. Aonde trabalhamos em grupo para criar essa parte visual de um site. Foi uma experiência incrível. Aonde foi possível fazer Network, e ter experiência pro mercado de trabalho de desenvolvedor web. 💻⬇️
+
+[![Site da Olimpo Alto Peças](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://site-games-soul-code.vercel.app/)]([https://velky07.itch.io/tnt-adventure](https://vaghenrique.github.io/FSN5-GRUPO02-AUTOPECAS/))
 
 Apaixonado por Tecnologia, conhecimento, e educação. Com a meta, e foco de se utilizar da Tecnolgia para constuir um mundo melhor. E mais acessível, e justo a todas as pessoas!
 
