@@ -153,6 +153,7 @@ Apaixonado por Tecnologia, conhecimento, e educação. Com a meta, e foco de se 
 ## 📧| Informações para contato:
 
   📩| E-mail: henrique.sousa.62.ifce.edu.br
+  
   📨|  E-mail pessoal: Ph9084533@gmail.com
 
 
