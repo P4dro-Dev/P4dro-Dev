@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#cce7e8&height=120&section=header"/>
+
 ## Hello, world! 💻🌐
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302/)
