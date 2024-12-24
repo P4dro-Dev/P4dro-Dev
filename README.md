@@ -45,8 +45,7 @@
 </div>
   
   ##  ⚛️| Tecnologias que uso no meu dia, a dia para programação Full Stack Web | iOS | Jogos Digitais:
-
-  <div style="display: inline_block"><br/>
+ <div style="display: inline_block"><br/>
   <a href="https://www.devmedia.com.br/o-que-e-o-html5/25820">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
   </a>
