@@ -47,13 +47,6 @@
     </tr>
   </table>
 </div>
-
- 📊| Estatísticas de Contribuições, e Linguagens Mais Utilizadas:
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BackandDeveloper&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="BackandDeveloper github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BackandDeveloper&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
   
   ##  ⚛️| Tecnologias que uso no meu dia, a dia para programação Full Stack Web | iOS | Jogos Digitais:
  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.devmedia.com.br/o-que-e-o-html5/25820)
@@ -72,6 +65,13 @@
 
 
 ![8d8c83e6fd50045287375032a8797318](https://github.com/user-attachments/assets/d3f161a3-8e11-416c-87d7-3cc644e67074)
+
+📊| Estatísticas de Contribuições, e Linguagens Mais Utilizadas:
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BackandDeveloper&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="BackandDeveloper github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BackandDeveloper&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 ## 🛡️| SO que utilizo para trabalhar no Desenvolvimento de Software:
  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.melhoreshospedagem.com/kali-linux/#:~:text=O%20Kali%20Linux%20%C3%A9%20uma,de%20penetra%C3%A7%C3%A3o%20e%20investiga%C3%A7%C3%B5es%20forenses.)
