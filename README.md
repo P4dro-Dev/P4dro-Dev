@@ -136,7 +136,7 @@
 [![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1369367736958094528/recents-and-sharing?fuid=1369367734704421641)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 
-  ## 📋| Projetos na qual fiz parte: 
+  ## 📋| Projetos na qual trabalhei, e outros que ainda estou trabalhando atualmente: 
 
    🎮| Fiz parte do desenvolvimento de um game, para a empresa de enérgico TNT Driks. Junto com outras 17 pessoas que parciparam do projeto. Aonde cada membro teve sua função na criação. E foi desenvolvido um game 2D (Bidimensional) de aventura, que contém a marca da empresa dentro do ambiente do game. Esse jogo foi o projeto final do BootCamp de Desenvolvimento de Games da SoulCode Academy + TNT Driks + Grupo Petrópolis. Nos site abaixo, é possível ver todos os integrantes que ajudaram de alguma forma da construção do game. E no itch.io, tem o link do game disponíel para baixar nos mais diversos sistemas operacionais! 👾⬇️
 
