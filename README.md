@@ -45,47 +45,46 @@
 </div>
   
   ##  ⚛️| Tecnologias que uso no meu dia, a dia para programação Full Stack Web | iOS | Jogos Digitais:
-<div style = "Display: inline_block"><br/>
+<div style="display: inline_block"><br/>
   <a href="https://www.devmedia.com.br/o-que-e-o-html5/25820">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-</a>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  </a>
   <a href="https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</a>
-   <a href="https://aws.amazon.com/pt/what-is/javascript/">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</a>
- <a href="https://www.mongodb.com/pt-br/docs/current/">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+  <a href="https://aws.amazon.com/pt/what-is/javascript/">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+  <a href="https://www.mongodb.com/pt-br/docs/current/">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </a>
   <a href="https://www.alura.com.br/artigos/bootstrap?srsltid=AfmBOooSIcbJOF_H_az9Y_OVrgucIfg83hwxhQLP2RODzNa-qaqmH0fU">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</a>  
- <a href="https://www.alura.com.br/artigos/como-instalar-node-js-windows-linux-macos?srsltid=AfmBOooQw_MvpaLHjl65ORrSqa_Y0Jfe88kIq1gJB-0mjyonwtw3lP_S">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</a> 
- <a href="https://www.alura.com.br/artigos/mysql-do-download-e-instalacao-ate-sua-primeira-tabela?srsltid=AfmBOor1g0dj0Wu6UJmld2A_A4ytjjfcox7QAtu3Mfq1X-CdSTkD0CEC">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</a> 
- <a href="https://www.apple.com/br/swift/">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=whit"/>
-</a> 
- <a href="https://www.alura.com.br/artigos/python?srsltid=AfmBOopuM2MkiC0kyv-JCfeC1ANMlNFjDay5BIRXz7QJYYOADjbZls59">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</a> 
- <a href="https://www.alura.com.br/artigos/django-instalacao-configuracao-e-escrevendo-seu-primeiro-app#:~:text=Django%20%C3%A9%20um%20framework%20web,a%20%C3%BAltima%20vers%C3%A3o%20do%20Python.">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</a> 
- <a href="https://ctrlplay.com.br/entenda-como-funciona-o-unity-uma-plataforma-exclusiva-para-a-criacao-de-games">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-</a> 
- </a> 
- <a href="https://www.alura.com.br/artigos/csharp-linguagem-programacao-dotnet?srsltid=AfmBOoroNlBRq_dcsUGV3xSKwZc63LgA37bG_k5a1H8v98gRzxoyw74l">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</a> 
-<a href="https://ebaconline.com.br/blog/o-que-e-linguagem-c">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</a> 
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </a>
+  <a href="https://www.alura.com.br/artigos/como-instalar-node-js-windows-linux-macos?srsltid=AfmBOooQw_MvpaLHjl65ORrSqa_Y0Jfe88kIq1gJB-0mjyonwtw3lP_S">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </a>
+  <a href="https://www.alura.com.br/artigos/mysql-do-download-e-instalacao-ate-sua-primeira-tabela?srsltid=AfmBOor1g0dj0Wu6UJmld2A_A4ytjjfcox7QAtu3Mfq1X-CdSTkD0CEC">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+  <a href="https://www.apple.com/br/swift/">
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  </a>
+  <a href="https://www.alura.com.br/artigos/python?srsltid=AfmBOopuM2MkiC0kyv-JCfeC1ANMlNFjDay5BIRXz7QJYYOADjbZls59">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href="https://www.alura.com.br/artigos/django-instalacao-configuracao-e-escrevendo-seu-primeiro-app#:~:text=Django%20%C3%A9%20um%20framework%20web,a%20%C3%BAltima%20vers%C3%A3o%20do%20Python.">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  </a>
+  <a href="https://ctrlplay.com.br/entenda-como-funciona-o-unity-uma-plataforma-exclusiva-para-a-criacao-de-games">
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  </a>
+  <a href="https://www.alura.com.br/artigos/csharp-linguagem-programacao-dotnet?srsltid=AfmBOoroNlBRq_dcsUGV3xSKwZc63LgA37bG_k5a1H8v98gRzxoyw74l">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  </a>
+  <a href="https://ebaconline.com.br/blog/o-que-e-linguagem-c">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  </a>
 </div>
 
 ![8d8c83e6fd50045287375032a8797318](https://github.com/user-attachments/assets/d3f161a3-8e11-416c-87d7-3cc644e67074)
