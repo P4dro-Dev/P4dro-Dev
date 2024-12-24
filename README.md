@@ -73,18 +73,15 @@
  <a href="https://www.alura.com.br/artigos/python?srsltid=AfmBOopuM2MkiC0kyv-JCfeC1ANMlNFjDay5BIRXz7QJYYOADjbZls59">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a> 
- <a href="https://www.alura.com.br/artigos/django-instalacao-configuracao-e-escrevendo-seu-primeiro-app#:~:text=Django%20%C3%A9%20um%20framework%20web,a%20%C3%BAltima%20vers%C3%A3o%20do%20Python.">
+ <a href="https://www.alura.com.br/artigos/django-instalacao-configuracao-e-escrevendo-seu-primeiro-app#:~:text=Django%20%C3%A9%20um%20framework%20web,a%20%C3%BAltima%20vers%C3%A3o%20do%20Python."/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </a> 
- <a href=https://ctrlplay.com.br/entenda-como-funciona-o-unity-uma-plataforma-exclusiva-para-a-criacao-de-games/"">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-</a> 
- <a href=https://ctrlplay.com.br/entenda-como-funciona-o-unity-uma-plataforma-exclusiva-para-a-criacao-de-games/"">
+ <a href="https://ctrlplay.com.br/entenda-como-funciona-o-unity-uma-plataforma-exclusiva-para-a-criacao-de-games"/>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 </a> 
  </a> 
- <a href="https://ebaconline.com.br/blog/o-que-e-linguagem-c">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whit" />
+ <a href="https://www.alura.com.br/artigos/csharp-linguagem-programacao-dotnet?srsltid=AfmBOoroNlBRq_dcsUGV3xSKwZc63LgA37bG_k5a1H8v98gRzxoyw74l">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </a> 
 <a href="https://ebaconline.com.br/blog/o-que-e-linguagem-c">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whit" />
