@@ -96,7 +96,7 @@
  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.techtudo.com.br/tudo-sobre/windows/)
  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://www.hostinger.com.br/tutoriais/o-que-e-ubuntu-linux)
  [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/intro/about.pt.html)
- [![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/br/support/xcode/)
+ [![Mac OS](https://canaltech.com.br/macos/o-que-e-macos/)
 
  <img src="https://github.com/user-attachments/assets/eea3f0d3-024d-41d5-9bba-9257b0b4da5a" width="200" height="200">
 
