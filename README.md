@@ -149,6 +149,9 @@
 
   📲| E estou atuando na linha de frente de um projeto de desenvolvimento de softaware iOS, como Engenheiro de Software. Com a responsabilidade de estruturar, guiar, e desenvolver todo o sistema Back-and com o meu amigo, José Gabriel. Sendo uma equipe de 5 pessoas. 3 Designers profissionais, e 2 programadores iOS. Com a finalidade de criar um app, sendo uma junção do tema de Pet's + Lembretes. Uma caderneta de saúde para Pet's. Com o nome de SKY Pet. E estamos tendo o prazo de 5 meses corridos para criar às 3 telas, e desenvolver o aplicativo em um todo. 100% funcional! 📱💾📖
 
+   <img src="https://github.com/user-attachments/assets/e883fdd0-24d2-434b-a02a-80b282ec9d86" width="350" height="200">
+
+
 Apaixonado por Tecnologia, conhecimento, e educação. Com a meta, e foco de se utilizar da Tecnolgia para constuir um mundo melhor. E mais acessível, e justo a todas as pessoas!
 
 ⚛️| Sᴛᴇᴘʜᴇɴ Hᴀᴡᴋɪɴɢ: "Uᴍ ᴛʀᴀʙᴀʟʜᴏ ᴛᴇ ᴅᴀ́ ᴜᴍ ᴘʀᴏᴘᴏ́sɪᴛᴏ, ᴇ ᴜᴍ sɪɢɴɪғɪᴄᴀᴅᴏ. A ᴠɪᴅᴀ ᴇ́ ᴠᴀᴢɪᴀ sᴇᴍ ᴀᴍʙᴏs!" 🖥️✨💡
