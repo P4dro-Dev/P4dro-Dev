@@ -66,7 +66,7 @@
 
 ![8d8c83e6fd50045287375032a8797318](https://github.com/user-attachments/assets/d3f161a3-8e11-416c-87d7-3cc644e67074)
 
-📊| Estatísticas de Contribuições, e Linguagens Mais Utilizadas:
+ ## 📊| Estatísticas de Contribuições, e Linguagens Mais Utilizadas:
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BackandDeveloper&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="BackandDeveloper github stats" /> 
