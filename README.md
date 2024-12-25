@@ -55,6 +55,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/pt-br/docs/current/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.alura.com.br/artigos/bootstrap?srsltid=AfmBOooSIcbJOF_H_az9Y_OVrgucIfg83hwxhQLP2RODzNa-qaqmH0fU)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://www.alura.com.br/artigos/como-instalar-node-js-windows-linux-macos?srsltid=AfmBOooQw_MvpaLHjl65ORrSqa_Y0Jfe88kIq1gJB-0mjyonwtw3lP_S)
+[![React.JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.alura.com.br/artigos/react-js?srsltid=AfmBOooM1mF-j5qC7nHCpmzmMyOcJltAgPr-0od21psc0bMtJjdCThYo)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.alura.com.br/artigos/mysql-do-download-e-instalacao-ate-sua-primeira-tabela?srsltid=AfmBOor1g0dj0Wu6UJmld2A_A4ytjjfcox7QAtu3Mfq1X-CdSTkD0CEC)
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://www.apple.com/br/swift/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.alura.com.br/artigos/python?srsltid=AfmBOopuM2MkiC0kyv-JCfeC1ANMlNFjDay5BIRXz7QJYYOADjbZls59)
