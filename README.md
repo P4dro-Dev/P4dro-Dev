@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+prazer,+me+chamo+Pedro+Henrique;Sou+estudante+do+curso+Técnico+Informática+no+IFCE;Seja+bem+vindo+ao+meu+Potfólio+Técnico!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+prazer,+me+chamo+Pedro+Henrique;Sou+estudante+do+curso+Técnico+Informática+no+IFCE;Seja+bem+vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg) 
 
 ## Hello, world! 💻🌐
 
@@ -177,7 +177,7 @@
 
 <picture align="center"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BackandDeveloper/BackandDeveloper/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BackandDeveloper/BackandDeveloper/output/github-contribution-grid-snake-dark.svg"> <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BackandDeveloper/BackandDeveloper/output/github-contribution-grid-snake.svg"> </picture>
 
-<br><p align="centre"><b> ≥∛∑×π| Contagem de visitantes. Voltem sempre :) </b></p>  
+<br><p align="centre"><b> ≥∛∑×π| Contagem de visitantes. Voltem sempre ;) </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BackandDeveloper}/count.svg" /></p> 
 <br></div>
 
