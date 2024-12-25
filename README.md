@@ -22,7 +22,7 @@
 
  <img src="https://github.com/user-attachments/assets/180fcb03-010e-4abb-bb6b-953b2fa8ee3f" width="350" height="150">
 
-📚| Atualmente, estudande do curso Técnico em Informática. E do outro curso Técnico em, Informática para web. Pelo Instituto Federal de Educação, Ciências e Tecnologias do Ceará (IFCE). Com o objetivo de aperfeiçoar, e ser um Desenvolvedor web, com foco em Full Stack, E Dev iOS. Com às principais metas de se trabalhar:
+📚| Atualmente, estudande do curso Técnico em Informática, E Técnico em Informática para web. Pelo Instituto Federal de Educação, Ciências e Tecnologias do Ceará (IFCE). Com o objetivo de me aperfeiçoar, e ser um Desenvolvedor Web, com foco em Full Stack, E Dev iOS. Com às principais metas de se trabalhar:
 
 <div style="display: flex; justify-content: center; align-items: center; text-align: center;">
   <table>
@@ -48,8 +48,8 @@
   </table>
 </div>
   
-  ##  ⚛️| Tecnologias que uso no meu dia, a dia para programação Full Stack Web | iOS | Jogos Digitais:
- [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.devmedia.com.br/o-que-e-o-html5/25820)
+  ##  ⚛️| Linguagens de programação que uso no meu dia, a dia para o desenvolvimento Full Stack Web | iOS | Jogos Digitais:
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.devmedia.com.br/o-que-e-o-html5/25820)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://aws.amazon.com/pt/what-is/javascript/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/pt-br/docs/current/)
@@ -66,7 +66,7 @@
 
 ![8d8c83e6fd50045287375032a8797318](https://github.com/user-attachments/assets/d3f161a3-8e11-416c-87d7-3cc644e67074)
 
- ## 📊| Estatísticas de Contribuições, e Linguagens Mais Utilizadas:
+ ## 📊| Estatísticas de Contribuições, e Linguagens mais Utilizadas:
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BackandDeveloper&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="BackandDeveloper github stats" /> 
@@ -114,7 +114,7 @@
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/br/support/xcode/)
 [![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio/intro?hl=pt-br)
 
-## 🗂️| Softwares que utlizo para criação de projetos, e documentos profissionais: 
+## 🗂️| Softwares que uso para criação de projetos, e documentos profissionais: 
 
 ![microsoft-intro](https://github.com/user-attachments/assets/ecc16122-671c-48a5-88cc-563e263a3d6d)
 
@@ -147,7 +147,7 @@
 [![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)](https://www.apple.com/br/safari/)
 [![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://support.google.com/chrome/answer/95346?hl=pt-BR&co=GENIE.Platform%3DAndroid)
 
-  ## 🖌️| Tecnologias de Designer: 
+  ## 🖌️| Tecnologias que uso para realizar Designer: 
 
 [![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)](https://www.techtudo.com.br/tudo-sobre/adobe-photoshop/#:~:text=Adobe%20Photoshop%20%C3%A9%20um%20programa,Android%20ou%20iPhone%20(iOS).&text=Vale%20ressaltar%20que%20n%C3%A3o%20existe,poss%C3%ADvel%20usar%20o%20Photoshop%20online.)
 [![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1369367736958094528/recents-and-sharing?fuid=1369367734704421641)
