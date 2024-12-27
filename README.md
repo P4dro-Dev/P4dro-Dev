@@ -184,7 +184,7 @@
 
 ## 📧| Informações para contato:
 
-  📩| E-mail: henrique.sousa62@aluno.ifce.edu.br
+  📩| E-mail Institucional: henrique.pedro62@aluno.ifce.edu.br
   
   📨|  E-mail pessoal: Ph9084533@gmail.com
 
