@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36a81d&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36a81d&size=35&center=true&vCenter=true&width=1000&lines=Olá,+prazer,+me+chamo+Pedro+Henrique;+discente+no+curso+Técnico+Informática+no+IFCE;Seja+bem+vindo+ao+meu+GitHub!+(ツ)%29)](https://git.io/typing-svg) 
-___________________________________________________________________________________________________________________________________
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=36a81d&center=true&width=700&lines=Hello, world! 💻🌐;Olá, Mundo! 💻🌐" alt="Typing SVG"/></a></h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1_qedr_o021_ti/profilecard/?igsh=YW8weHA1aWE4MHhk)
