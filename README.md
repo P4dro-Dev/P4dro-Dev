@@ -20,7 +20,7 @@
 [![Microsoft Teans](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-teams/free)
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us05web.zoom.us/myhome?amp_device_id=63cdc492-a2bd-4ac3-9745-5c3948f9d5eb)
 
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&color=FFFFFF&center=true&vCenter=true&width=1000&height=70&duration=6000&lines=---------------------------------------------------------------------------------------------------------------------------------------------------" />
 
  <img src="https://github.com/user-attachments/assets/180fcb03-010e-4abb-bb6b-953b2fa8ee3f" width="350" height="150">
 
