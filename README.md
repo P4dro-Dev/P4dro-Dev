@@ -182,6 +182,8 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BackandDeveloper}/count.svg" /></p> 
 <br></div>
 
+<p align="center"><a href=""><img src="https://s11.flagcounter.com/countxl/cEg/bg_0D1117/txt_FFFFFF/border_0D1117/columns_6/maxflags_12/viewers_3/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a></p><br>
+
 ## 📧| Informações para contato:
 
   📩| E-mail Institucional: henrique.pedro62@aluno.ifce.edu.br
