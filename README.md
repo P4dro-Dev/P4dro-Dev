@@ -152,24 +152,6 @@
 [![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1369367736958094528/recents-and-sharing?fuid=1369367734704421641)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 
-  ## 📋| Projetos na qual trabalhei, e outros que ainda estou trabalhando atualmente: 
-
-   🎮| Fiz parte do desenvolvimento de um game, para a empresa de enérgico TNT Driks. Junto com outras 17 pessoas que parciparam do projeto. Aonde cada membro teve sua função na criação. E foi desenvolvido um game 2D (Bidimensional) de aventura, que contém a marca da empresa dentro do ambiente do game. Esse jogo foi o projeto final do BootCamp de Desenvolvimento de Games da SoulCode Academy + TNT Driks + Grupo Petrópolis. Nos site abaixo, é possível ver todos os integrantes que ajudaram de alguma forma da construção do game. E no itch.io, tem o link do game disponíel para baixar nos mais diversos sistemas operacionais! 👾⬇️
-
-[![Site TNT](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://site-games-soul-code.vercel.app/)
-[![Itchi.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://velky07.itch.io/tnt-adventure)
-
-  🌐| Também tive o prazer de participar de uma equipe de desenvolvimento. Com meus amigos, sendo eles, Gabriel, Saly, Caio, e Firmino. Aonde tivemos o trabalho dentro do curso Full Stack, do Instituto Atlântico, e Universidade Estadual do Ceará. De desenvolver um Front-and básico usando às Tecnologias Básicas. Que foram: HTML + CSS + JS. Aonde trabalhamos em grupo para criar essa parte visual de um site. Foi uma experiência incrível. Aonde foi possível fazer Network, e ter experiência pro mercado de trabalho de desenvolvedor web. 💻⬇️
-
-[![Site da Olimpo Alto Peças](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vaghenrique.github.io/FSN5-GRUPO02-AUTOPECAS/)
-
-  📲| E estou atuando na linha de frente de um projeto de desenvolvimento de softaware iOS, como Engenheiro de Software. Com a responsabilidade de estruturar, guiar, e desenvolver todo o sistema Back-and com o meu amigo, José Gabriel. Sendo uma equipe de 5 pessoas. 3 Designers profissionais, e 2 programadores iOS. Com a finalidade de criar um app, sendo uma junção do tema de Pet's + Lembretes. Uma caderneta de saúde para Pet's. Com o nome de SKY Pet. E estamos tendo o prazo de 5 meses corridos para criar às 3 telas, e desenvolver o aplicativo em um todo. 100% funcional! 📱💾📖
-  
-
-   <img src="https://github.com/user-attachments/assets/e883fdd0-24d2-434b-a02a-80b282ec9d86" width="350" height="200">
-
-
-
   🖋️| Apaixonado por Tecnologia, conhecimento, e educação. Com a meta, e foco de se utilizar da Tecnolgia para constuir um mundo melhor. E mais acessível, e justo a todas as pessoas!
 
 ⚛️| Sᴛᴇᴘʜᴇɴ Hᴀᴡᴋɪɴɢ: "Uᴍ ᴛʀᴀʙᴀʟʜᴏ ᴛᴇ ᴅᴀ́ ᴜᴍ ᴘʀᴏᴘᴏ́sɪᴛᴏ, ᴇ ᴜᴍ sɪɢɴɪғɪᴄᴀᴅᴏ. A ᴠɪᴅᴀ ᴇ́ ᴠᴀᴢɪᴀ sᴇᴍ ᴀᴍʙᴏs!" 🖥️✨💡
