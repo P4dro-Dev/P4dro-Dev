@@ -123,8 +123,6 @@
  [![Microsoft Acess](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)](https://support.microsoft.com/pt-br/topic/implantar-um-aplicativo-do-access-7bb4f2ba-30ee-458c-a673-102dc34bf14f)
  [![Microsoft Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/powerpoint)
  [![Microsoft Vision](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://support.microsoft.com/pt-br/office/v%C3%ADdeo-o-que-%C3%A9-o-visio-421b0c94-7ecf-4e62-8072-d27e04d24fe6)
- [![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)](https://miro.com/app/dashboard/)
- [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/165bf3e4f44f8095bf8dd9f9a2997e39?showMoveTo=true&saveParent=true)
 
   ## 🧷| Tecnologias de versionamento de código que utilizo para trabalho coletivo: 
 
