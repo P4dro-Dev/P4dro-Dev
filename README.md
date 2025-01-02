@@ -40,7 +40,8 @@
         </ul>
       </td>
       <td>
-        <img src="1602b26c05ee78120695d592a68b8912](https://github.com/user-attachments/assets/5bc8b079-b51b-4f58-9e15-9f0ff568f75a" width="350" height="200">
+        <img src="https://github.com/user-attachments/assets/5464b020-058b-4c31-a9a7-f7bd424f0702
+" width="350" height="200">
       </td>
     </tr>
   </table>
