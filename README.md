@@ -171,7 +171,7 @@
 
   📩| E-mail Institucional: henrique.pedro62@aluno.ifce.edu.br
   
-  📨|  E-mail pessoal: linkedin.profissional.ti.pedro@gmail.com
+  📨|  E-mail profissional: linkedin.profissional.ti.pedro@gmail.com
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36a81d&height=120&section=footer"/>
 
