@@ -81,7 +81,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=BackandDeveloper&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BackandDeveloper&theme=radical&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BackandDeveloper&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
 ## 🛡️| SO que utilizo para trabalhar no Desenvolvimento de Software:
  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.melhoreshospedagem.com/kali-linux/#:~:text=O%20Kali%20Linux%20%C3%A9%20uma,de%20penetra%C3%A7%C3%A3o%20e%20investiga%C3%A7%C3%B5es%20forenses.)
