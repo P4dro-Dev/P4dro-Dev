@@ -81,6 +81,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=BackandDeveloper&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ## 🛡️| SO que utilizo para trabalhar no Desenvolvimento de Software:
  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.melhoreshospedagem.com/kali-linux/#:~:text=O%20Kali%20Linux%20%C3%A9%20uma,de%20penetra%C3%A7%C3%A3o%20e%20investiga%C3%A7%C3%B5es%20forenses.)
  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.hostgator.com.br/blog/linux-tudo-sobre-sistema/)
