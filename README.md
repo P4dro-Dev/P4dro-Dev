@@ -22,7 +22,7 @@
 
 📚| Atualmente, estudante do curso Técnico em Informática. E Técnico em Informática para Web. Pelo Instituto Federal de Educação, Ciências e Tecnologias do Ceará (IFCE). Com o objetivo de me aperfeiçoar, e ser um Desenvolvedor Web, com foco em Full Stack, e Dev iOS. Com às principais metas de se trabalhar:
 
-<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
+<br><p align="centre"><b> <h3 align="center">
   <table>
     <tr>
       <td>
