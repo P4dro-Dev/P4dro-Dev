@@ -45,7 +45,6 @@
   </table>
 </div>
 
-  
   ##  ⚛️| Linguagens de programação, que uso para o desenvolvimento Full Stack Web | iOS | Jogos Digitais:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.devmedia.com.br/o-que-e-o-html5/25820)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css)
