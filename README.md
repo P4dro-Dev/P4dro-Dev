@@ -27,7 +27,7 @@
     <tr>
       <td>
         <ul>
-          <li>📲 Desenvolvimento iOS...</li>
+          <li>📲| Desenvolvimento iOS...</li>
           <li>🌐 Dev Full Stack...</li>
           <li>💻 Game Designer...</li>
           <li>🕹️ Desenvolvimento de Jogos Digitais...</li>
