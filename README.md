@@ -32,7 +32,7 @@
           <li>💻| Game Designer...</li>
           <li>🕹️| Desenvolvimento de Jogos Digitais...</li>
           <li>⚛️| Machine learning...</li>
-          <li>🎲 Engenharia de Dados...</li>
+          <li>🎲| Engenharia de Dados...</li>
           <li>🔎 Pesquisa Científica...</li>
           <li>⚙️ Engenharia de Software...</li>
           <li>💡 Dev IA'S...</li>
