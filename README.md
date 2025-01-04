@@ -22,7 +22,6 @@
 
 📚| Atualmente, estudante do curso Técnico em Informática. E Técnico em Informática para Web. Pelo Instituto Federal de Educação, Ciências e Tecnologias do Ceará (IFCE). Com o objetivo de me aperfeiçoar, e ser um Desenvolvedor Web, com foco em Full Stack, e Dev iOS. Com às principais metas de se trabalhar:
 
-<br><p align="centre"><b> <h3 align="center">
   <table>
     <tr>
       <td>
@@ -45,7 +44,7 @@
     </tr>
   </table>
 </div>
-</b></p>
+
   
   ##  ⚛️| Linguagens de programação, que uso para o desenvolvimento Full Stack Web | iOS | Jogos Digitais:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.devmedia.com.br/o-que-e-o-html5/25820)
