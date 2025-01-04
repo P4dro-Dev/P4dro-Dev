@@ -36,7 +36,7 @@
           <li>🔎| Pesquisa Científica...</li>
           <li>⚙️| Engenharia de Software...</li>
           <li>💡| Dev IA'S...</li>
-          <li>👥 Trabalho em equipe, e comunicação...</li>
+          <li>👥| Trabalho em equipe, e comunicação...</li>
         </ul>
       </td>
       <td>
