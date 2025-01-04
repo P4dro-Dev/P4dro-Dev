@@ -34,7 +34,7 @@
           <li>⚛️| Machine learning...</li>
           <li>🎲| Engenharia de Dados...</li>
           <li>🔎| Pesquisa Científica...</li>
-          <li>⚙️ Engenharia de Software...</li>
+          <li>⚙️| Engenharia de Software...</li>
           <li>💡 Dev IA'S...</li>
           <li>👥 Trabalho em equipe, e comunicação...</li>
         </ul>
