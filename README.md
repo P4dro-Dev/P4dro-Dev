@@ -142,7 +142,7 @@
 [![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)](https://www.apple.com/br/safari/)
 [![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://support.google.com/chrome/answer/95346?hl=pt-BR&co=GENIE.Platform%3DAndroid)
 
-  ## 🖌️| Tecnologias que uso para realizar Designer, e Prototipagem: 
+  ## 🖌️| Tecnologias que uso para realizar Prótotipagem de Alto Nível, e Designer: 
 
 [![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)](https://www.techtudo.com.br/tudo-sobre/adobe-photoshop/#:~:text=Adobe%20Photoshop%20%C3%A9%20um%20programa,Android%20ou%20iPhone%20(iOS).&text=Vale%20ressaltar%20que%20n%C3%A3o%20existe,poss%C3%ADvel%20usar%20o%20Photoshop%20online.)
 [![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1369367736958094528/recents-and-sharing?fuid=1369367734704421641)
