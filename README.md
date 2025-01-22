@@ -149,7 +149,7 @@
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
  [![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)](https://miro.com/app/dashboard/)
  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/165bf3e4f44f8095bf8dd9f9a2997e39?showMoveTo=true&saveParent=true)
-[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)]()
+[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.oficinadanet.com.br/artigo/criacao_3d/blender_o_que_e)
 
   🖋️| Apaixonado por Tecnologia, conhecimento, e educação. Com a meta, e foco de se utilizar da Tecnolgia para constuir um mundo melhor. E mais acessível, e justo a todas as pessoas!
 
