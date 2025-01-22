@@ -142,13 +142,14 @@
 [![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)](https://www.apple.com/br/safari/)
 [![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://support.google.com/chrome/answer/95346?hl=pt-BR&co=GENIE.Platform%3DAndroid)
 
-  ## 🖌️| Tecnologias que uso para realizar Prótotipagem de Alto Nível, e Designer: 
+  ## 🖌️| Tecnologias que uso para realizar Prótotipagem de Alto Nível, Designer, e Modelagem 3D: 
 
 [![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)](https://www.techtudo.com.br/tudo-sobre/adobe-photoshop/#:~:text=Adobe%20Photoshop%20%C3%A9%20um%20programa,Android%20ou%20iPhone%20(iOS).&text=Vale%20ressaltar%20que%20n%C3%A3o%20existe,poss%C3%ADvel%20usar%20o%20Photoshop%20online.)
 [![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1369367736958094528/recents-and-sharing?fuid=1369367734704421641)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
  [![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)](https://miro.com/app/dashboard/)
  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/165bf3e4f44f8095bf8dd9f9a2997e39?showMoveTo=true&saveParent=true)
+[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)]()
 
   🖋️| Apaixonado por Tecnologia, conhecimento, e educação. Com a meta, e foco de se utilizar da Tecnolgia para constuir um mundo melhor. E mais acessível, e justo a todas as pessoas!
 
