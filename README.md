@@ -18,7 +18,6 @@
 [![Microsoft Teans](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-teams/free)
 
  
-
 📚| Atualmente, estudante do curso Técnico em Informática. E Técnico em Informática para Web. Pelo Instituto Federal de Educação, Ciências e Tecnologias do Ceará (IFCE). Com o objetivo de me aperfeiçoar, e ser um Desenvolvedor Web, com foco em Full Stack, e Dev iOS. Com às principais metas de se trabalhar:
 
   <table>
