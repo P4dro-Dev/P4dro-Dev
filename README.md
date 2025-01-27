@@ -16,7 +16,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:Ph9084533@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://www.bing.com/ck/a?!&&p=a6a588732d69f9a95498d730347c26731d425836d2159b690f0dcea26da0f6ccJmltdHM9MTczNDkxMjAwMA&ptn=3&ver=2&hsh=4&fclid=3fdf982c-36c2-6a41-3c59-8b2637d66b00&psq=Oque+%c3%a9+Outook+e+como+baixar&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9wdC1ici9taWNyb3NvZnQtMzY1L291dGxvb2svb3V0bG9vay1mb3Itd2luZG93cz9tc29ja2lkPTNmZGY5ODJjMzZjMjZhNDEzYzU5OGIyNjM3ZDY2YjAw&ntb=1)
 [![Microsoft Teans](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-teams/free)
-[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us05web.zoom.us/myhome?amp_device_id=63cdc492-a2bd-4ac3-9745-5c3948f9d5eb)
+
 
  <img src="https://github.com/user-attachments/assets/180fcb03-010e-4abb-bb6b-953b2fa8ee3f" width="350" height="150">
 
