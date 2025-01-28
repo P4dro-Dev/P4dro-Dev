@@ -15,7 +15,7 @@
 [![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PedroHe12287507?t=dD2KuQpwq2nB5CgqlkYV6g&s=09)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:Ph9084533@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://www.bing.com/ck/a?!&&p=a6a588732d69f9a95498d730347c26731d425836d2159b690f0dcea26da0f6ccJmltdHM9MTczNDkxMjAwMA&ptn=3&ver=2&hsh=4&fclid=3fdf982c-36c2-6a41-3c59-8b2637d66b00&psq=Oque+%c3%a9+Outook+e+como+baixar&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9wdC1ici9taWNyb3NvZnQtMzY1L291dGxvb2svb3V0bG9vay1mb3Itd2luZG93cz9tc29ja2lkPTNmZGY5ODJjMzZjMjZhNDEzYzU5OGIyNjM3ZDY2YjAw&ntb=1)
-[![Microsoft Teans](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-teams/free)
+
 
 📚| Atualmente, estudante do curso Técnico em Informática. E Técnico em Informática para Web. Pelo Instituto Federal de Educação, Ciências e Tecnologias do Ceará (IFCE). Com o objetivo de me aperfeiçoar, e ser um Desenvolvedor Web, com foco em Full Stack, e Dev iOS. Com às principais metas de se trabalhar:
 
