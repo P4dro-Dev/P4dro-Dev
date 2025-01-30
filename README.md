@@ -99,7 +99,7 @@
 
 <img src="https://github.com/user-attachments/assets/3e24d113-9b9a-424f-9419-6285c9b179fa" width="200" height="200">
 
-[![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://victorvision.com.br/blog/arduino-ide/)
+[![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.tinkercad.com/users/4PMT8jmESwF?type=designs)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://visualstudio.microsoft.com/pt-br/)
 [![Plug-in IDE](https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000)](https://tecnoblog.net/responde/o-que-e-um-plugin/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=whit)](https://learn.microsoft.com/pt-br/visualstudio/get-started/visual-studio-ide?view=vs-2022)
