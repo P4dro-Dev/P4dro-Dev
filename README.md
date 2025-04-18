@@ -155,7 +155,7 @@
 
 <div align="center">
   
-[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36A81D&width=500&center=true&lines=𝝅+%7C+Contagem+de+visitantes;Voltem+sempre!+%E3%83%BD(%5Eo%5E)%E4%B8%BF)](https://git.io/typing-svg)
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=24&pause=1000&color=36A81D&width=500&center=true&lines=𝝅+%7C+Contagem+de+visitantes;Voltem+sempre!+%E3%83%BD(%5Eo%5E)%E4%B8%BF)](https://git.io/typing-svg)
 
 </div>
 
