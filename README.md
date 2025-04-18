@@ -153,7 +153,11 @@
 
 <picture align="center"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/P4dro-Dev/P4dro-Dev/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/P4dro-Dev/P4dro-Dev/output/github-contribution-grid-snake-dark.svg"> <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/P4dro-Dev/P4dro-Dev/output/github-contribution-grid-snake.svg"> </picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36A81D&width=700&lines=𝝅+|+Contagem+de+visitantes;Voltem+sempre!+ヽ(^o^)丿)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36A81D&width=500&center=true&lines=𝝅+%7C+Contagem+de+visitantes;Voltem+sempre!+%E3%83%BD(%5Eo%5E)%E4%B8%BF)](https://git.io/typing-svg)
+
+</div>
 
  </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BackandDeveloper}/count.svg" /></p> 
