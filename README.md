@@ -167,7 +167,7 @@
 
 ## 📧| Informações para contato:
 
-  📩| E-mail Institucional: henrique.pedro62@alun
+  📩| E-mail Institucional: henrique.pedro62@alu
   
   📨|  E-mail profissional: linkedln.profissional.ti.pedro@gmail.com
 
