@@ -167,7 +167,7 @@
 
 ## 📧| Informações para contato:
 
-  📩| E-mail Institucional: henrique.pedro62@a
+  📩| E-mail Institucional: henrique.pedro62@
   
   📨|  E-mail profissional: linkedln.profissional.ti.pedro@gmail.com
 
