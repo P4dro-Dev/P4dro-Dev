@@ -167,7 +167,7 @@
 
 ## 📧| Informações para contato:
 
-  📩| E-mail Institucional: henrique.pedro62@aluno.ifce
+  📩| E-mail Institucional: henrique.pedro62@aluno.ifc
   
   📨|  E-mail profissional: linkedln.profissional.ti.pedro@gmail.com
 
