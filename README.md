@@ -167,7 +167,7 @@
 
 ## 📧| Informações para contato:
 
-  📩| E-mail Insti
+  📩| E-mail Inst
 
   📨|  E-mail profissional: linkedln.profissional.ti.pedro@gmail.com
 
