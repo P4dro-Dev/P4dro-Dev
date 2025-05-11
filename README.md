@@ -167,7 +167,7 @@
 
 ## 📧| Informações para contato:
 
-  📩| E-ma
+  📩| E-m
 
   📨|  E-mail profissional: linkedln.profissional.ti.pedro@gmail.com
 
