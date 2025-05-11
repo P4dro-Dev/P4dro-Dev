@@ -168,7 +168,7 @@
 ## 📧| Informações para contato:
 
   📩| E-mail Instit
-  
+
   📨|  E-mail profissional: linkedln.profissional.ti.pedro@gmail.com
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36a81d&height=120&section=footer"/>
