@@ -169,7 +169,7 @@
 
   📩| E-mail Institucional: henrique.pedro62@aluno.
   
-  📨|  E-mail profissional: linkedln.profissional.ti.pedro@gmail.com
+  📨|  E-mail profissional: linkedln.profissional.ti.pedro@gmail.co
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36a81d&height=120&section=footer"/>
 
