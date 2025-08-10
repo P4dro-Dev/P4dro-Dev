@@ -154,17 +154,17 @@
 
 <div align="center">
 
-[![Animação de Digitação](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=24&pause=1000&color=36A81D&width=500&center=true&lines=𝝅+%7C+Contagem+de+visitantes;Voltem+sempre!+%E3%83%BD(%5Eo%5E)%E4%B8%BF)](https://git.io/typing-svg)
-
-<br>
-
-<img src="https://profile-counter.glitch.me/{BackandDeveloper}/count.svg" />
-
-<br>
-
-<a href="https://github.com/BackandDeveloper"><img src="https://s11.flagcounter.com/countxl/cEg/bg_0D1117/txt_FFFFFF/border_0D1117/columns_6/maxflags_12/viewers_3/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=24&pause=1000&color=36A81D&width=500&center=true&lines=𝝅+%7C+Contagem+de+visitantes;Voltem+sempre!+%E3%83%BD(%5Eo%5E)%E4%B8%BF)](https://git.io/typing-svg)
 
 </div>
+
+ </b></p>  
+ 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BackandDeveloper}/count.svg" /></p> 
+
+<br></div>
+
+<p align="center"><a href="https://github.com/BackandDeveloper"><img src="https://s11.flagcounter.com/countxl/cEg/bg_0D1117/txt_FFFFFF/border_0D1117/columns_6/maxflags_12/viewers_3/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a></p><br>
 
 ## 📧| Informações para contato:
 
