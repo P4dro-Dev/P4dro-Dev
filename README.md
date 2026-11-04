@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=36a81d&size=28&center=true&vCenter=true&width=1000&lines=Olá,+sou+Pedro+Henrique;Desenvolvedor+Full+Stack+%7C+%7C+Marchine Learning;Bacharelando+em+Ciência+da+Computação+-+IFCE"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=36a81d&size=28&center=true&vCenter=true&width=1000&lines=Olá,+sou+Pedro+Henrique;Desenvolvedor+Full+Stack+%7C+Machine+Learning;Bacharelando+em+Ciência+da+Computação+-+IFCE"/>
   </a>
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Perfil Profissional
 
-Sou **Bacharelando em Ciência da Computação (IFCE)**, e formado em **Técnico em Informática**, e **Técnico em Informática para Internet** na mesma Instituição, focado em arquitetar e desenvolver soluções eficientes, escaláveis e seguras. Tenho forte atuação na construção de sistemas Full Stack, aplicativos nativos e integração de dados. Busco sempre aliar o rigor acadêmico/científico às melhores práticas do mercado (Clean Code, Metodologias Ágeis e Arquitetura de Software).
+Sou **Bacharelando em Ciência da Computação (IFCE)**, e formado como **Técnico em Informática** e **Técnico em Informática para Internet** na mesma Instituição, focado em arquitetar e desenvolver soluções eficientes, escaláveis e seguras. Tenho forte atuação na construção de sistemas Full Stack, aplicativos nativos e integração de dados. Busco sempre aliar o rigor acadêmico/científico às melhores práticas do mercado (Clean Code, Metodologias Ágeis e Arquitetura de Software).
 
 <p align="center">
   <a href="https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -61,6 +61,18 @@ Sou **Bacharelando em Ciência da Computação (IFCE)**, e formado em **Técnico
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=P4dro-Dev&show_icons=true&count_private=true&hide_border=true&title_color=36a81d&icon_color=36a81d&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub" /> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4dro-Dev&layout=compact&hide_border=true&title_color=36a81d&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais utilizadas" />
 </div>
+
+<br>
+
+<div align="center">
+  <picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/P4dro-Dev/P4dro-Dev/output/github-contribution-grid-snake-dark.svg"> 
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/P4dro-Dev/P4dro-Dev/output/github-contribution-grid-snake.svg"> 
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/P4dro-Dev/P4dro-Dev/output/github-contribution-grid-snake.svg"> 
+  </picture>
+</div>
+
+<br>
 
 <div align="center">
 
