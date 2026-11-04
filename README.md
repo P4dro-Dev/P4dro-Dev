@@ -2,21 +2,21 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=36a81d&size=28&center=true&vCenter=true&width=1000&lines=Olá,+sou+Pedro+Henrique;Desenvolvedor+Full+Stack+%7C+Mobile+(iOS)+%7C+Game+Dev;Bacharelando+em+Ciência+da+Computação+-+IFCE"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=36a81d&size=28&center=true&vCenter=true&width=1000&lines=Olá,+sou+Pedro+Henrique;Desenvolvedor+Full+Stack+%7C+%7C+Marchine Learning;Bacharelando+em+Ciência+da+Computação+-+IFCE"/>
   </a>
 </div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/P4dro-Dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:Ph9084533@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
 
 ---
 
 ## 👨‍💻 Perfil Profissional
 
 Sou **Bacharelando em Ciência da Computação (IFCE)**, e formado em **Técnico em Informática**, e **Técnico em Informática para Internet** na mesma Instituição, focado em arquitetar e desenvolver soluções eficientes, escaláveis e seguras. Tenho forte atuação na construção de sistemas Full Stack, aplicativos nativos e integração de dados. Busco sempre aliar o rigor acadêmico/científico às melhores práticas do mercado (Clean Code, Metodologias Ágeis e Arquitetura de Software).
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/P4dro-Dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:Ph9084533@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
 ---
 
