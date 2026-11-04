@@ -62,20 +62,7 @@ Sou **Bacharelando em Ciência da Computação (IFCE)**, e formado em **Técnico
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4dro-Dev&layout=compact&hide_border=true&title_color=36a81d&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais utilizadas" />
 </div>
 
-<br>
-
 <div align="center">
-  <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/P4dro-Dev/P4dro-Dev/output/github-contribution-grid-snake-dark.svg"> 
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/P4dro-Dev/P4dro-Dev/output/github-contribution-grid-snake.svg"> 
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/P4dro-Dev/P4dro-Dev/output/github-contribution-grid-snake.svg"> 
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36A81D&width=400&center=true&lines=Obrigado+pela+visita!;Volte+sempre!+%E3%83%BD(%5Eo%5E)%E4%B8%BF" alt="Obrigado pela visita"/>
